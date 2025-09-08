@@ -42,7 +42,6 @@
 ## 🌐 Onde me encontrar  
 - 📩 [E-mail](mailto:kellzer01@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-camilofullstack/)  
-- 🖥️ [Portfólio] (em andamento)
 
 ---
 
