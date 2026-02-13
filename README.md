@@ -29,16 +29,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-<div align="center">
-
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellzero&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellzero&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar  
 - 📩 [E-mail](mailto:kellzer01@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-camilofullstack/)  
