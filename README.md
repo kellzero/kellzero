@@ -1,11 +1,12 @@
-# 👋 Olá, eu sou o Kelvin Camilo  
+# 👋 Olá, eu sou o Kelvin Camilo Ferreira
 
-💻 Desenvolvedor Full Stack em formação | 🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções criativas.  
+💻 Desenvolvedor Full Stack | React · TypeScript · Python · Django | 🚀 Focado em construir aplicações web completas, do back-end em Django ao front-end em React.  
 
 ---
 
 ## 🌟 Sobre mim  
-- 🛠️ Experiência com **HTML, CSS, JavaScript, React, Redux e TypeScript**  
+- 🛠️ Projetos com Django REST Framework, React, TypeScript, PostgreSQL.
+- 🛠️ Experiência com **HTML, CSS, JavaScript, Redux**  
 - 📚 Sempre explorando novas tecnologias e boas práticas  
 - 🏐 Também pratico vôlei — disciplina e trabalho em equipe fazem parte da minha vida  
 - 🎯 Foco em **crescer como desenvolvedor** e colaborar em projetos de impacto  
