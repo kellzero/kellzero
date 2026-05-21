@@ -5,7 +5,6 @@
 ---
 
 ## 🌟 Sobre mim  
-- 🎓 Estudante de **Full Stack Python** pela EBAC  
 - 🛠️ Experiência com **HTML, CSS, JavaScript, React, Redux e TypeScript**  
 - 📚 Sempre explorando novas tecnologias e boas práticas  
 - 🏐 Também pratico vôlei — disciplina e trabalho em equipe fazem parte da minha vida  
