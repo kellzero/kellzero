@@ -27,6 +27,12 @@
 
 </div>
 
+## 🚀 Projetos
+
+### FinTrack — Sistema Financeiro Full Stack
+Sistema de controle financeiro com React, TypeScript, Django REST Framework e PostgreSQL.
+- [Front-end](https://github.com/kellzero/fintrack) · [Back-end](https://github.com/kellzero/fintrack-api) · [Demo](https://fintrack-five-woad.vercel.app)
+
 ---
 
 ## 🌐 Onde me encontrar  
